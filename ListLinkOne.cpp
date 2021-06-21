@@ -1,7 +1,6 @@
 ﻿// ListLinkOne.cpp : Defines the entry point for the application.
 //
-
-#include "ListLinkOne.h"
+#include <iostream>
 
 template <typename T>
 class List {
